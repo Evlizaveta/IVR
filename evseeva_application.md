@@ -1,9 +1,9 @@
 # IVR
-## Группа: 10И4  
+## Группа: 11И4  
 
 ## Электронная почта: Evlizaveta@mail.ru 
 
-## vk: https://vk.com/shto_podelaesh 
+## vk: https://vk.com/xbwlq
 
 # “HelpFit” – приложение для ios устройств  
 
